@@ -14,6 +14,4 @@
 - Pear
 - Grapes
 - Oranges
-
-
 - Lemon
