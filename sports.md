@@ -3,3 +3,4 @@
 - Rugby
 - Football
 - Tennis
+- Cricket
