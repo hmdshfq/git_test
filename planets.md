@@ -7,3 +7,5 @@
 - Jupiter
 - Neptune
 - Pluto
+- Saturn
+- Uranus
