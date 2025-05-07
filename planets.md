@@ -7,5 +7,3 @@
 - Jupiter
 - Neptune
 - Pluto
-- Acaklsdfjlasd
-- def
